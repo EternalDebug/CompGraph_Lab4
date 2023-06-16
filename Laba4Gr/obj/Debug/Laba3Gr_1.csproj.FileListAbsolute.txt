@@ -1,0 +1,9 @@
+C:\Users\stalk\Desktop\Laba3Gr_1\bin\Debug\Laba3Gr_1.exe.config
+C:\Users\stalk\Desktop\Laba3Gr_1\bin\Debug\Laba3Gr_1.exe
+C:\Users\stalk\Desktop\Laba3Gr_1\bin\Debug\Laba3Gr_1.pdb
+C:\Users\stalk\Desktop\Laba3Gr_1\obj\Debug\Laba3Gr_1.csprojAssemblyReference.cache
+C:\Users\stalk\Desktop\Laba3Gr_1\obj\Debug\Laba3Gr_1.Form1.resources
+C:\Users\stalk\Desktop\Laba3Gr_1\obj\Debug\Laba3Gr_1.Properties.Resources.resources
+C:\Users\stalk\Desktop\Laba3Gr_1\obj\Debug\Laba3Gr_1.csproj.GenerateResource.cache
+C:\Users\stalk\Desktop\Laba3Gr_1\obj\Debug\Laba3Gr_1.exe
+C:\Users\stalk\Desktop\Laba3Gr_1\obj\Debug\Laba3Gr_1.pdb
